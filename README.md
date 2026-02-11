@@ -26,15 +26,13 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
  
 <p align="center">
 <img src="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/snake.svg" alt="Snake animation" />
-
+</p>
 ###
-
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
 </p>
+
