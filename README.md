@@ -43,3 +43,10 @@ End-to-end deployment automation for containerized applications using Jenkins.
 
 
 💡 *I am passionate about building reliable distributed systems and continuously improving infrastructure through automation and best DevOps practices.*
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
+</picture>
+
