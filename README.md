@@ -1,6 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Alok%20Ranjan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20SRE%20Practices%20%20&descAlignY=55&descAlign=50%22%20alt=%22Header%22"/>
  
-Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with AWS, GCP, Kubernetes, Terraform & CI/CD  <br>🔄 Passionate about automation, cloud migrations, and scalable infrastructure  <br>📈 Always learning and building production-ready systems  <br><br>Currently exploring advanced DevOps, distributed systems, and high-scale architectures.<br>
+Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ AWS | GCP | Kubernetes | Terraform | CI/CD  <br>📊 Monitoring | Cost Optimization | Cloud Migration  <br>🔄 Automating deployments & improving system reliability  <br><br>💡 I design production-ready cloud architectures with high availability, observability, and cost efficiency.
+.<br>
+
+## 🚀 Featured Projects
+- 🔹 Multi-Cloud Cost Optimization Framework
+- 🔹 Kubernetes Monitoring Stack (Prometheus + Grafana + Alerts)
+- 🔹 Automated Cloud Backup & Disaster Recovery System
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokranjan167/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokranjan167@gmail.com) 
