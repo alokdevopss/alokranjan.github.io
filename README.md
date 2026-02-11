@@ -16,15 +16,19 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
 
 ![](https://github-profile-trophy.vercel.app/?username=alokdevopss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-```
+
+
+<hr/>
 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=alokdevopss&style=for-the-badge&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Abhiraj-1604&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-```
- 
-<p align="center">
-<img src="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/snake.svg" alt="Snake animation" />
-</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
+</picture>
+
 
