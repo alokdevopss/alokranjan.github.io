@@ -11,8 +11,9 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alokdevopss&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=alokdevopss&theme=default_repocard&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alokdevopss&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alokdevopss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 ![](https://github-profile-trophy.vercel.app/?username=alokdevopss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -20,9 +21,7 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
 
 <hr/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alokdevopss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph-dark.svg">
